@@ -1,12 +1,18 @@
-# OpenShell
-
-OpenShell is the safe, private runtime for autonomous AI agents.
+**OpenShell** is the safe, private runtime for fleets of autonomous AI agents — enforcing kernel-level isolation, credential-safe providers, and formally verified policies.
 
 > [!NOTE]
-> 🚧 OpenShell is now part of the CNCF! We’re in the process of moving development
-> to this organization. Until the move is complete, please use [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-> for code, issues, and pull requests.
+> OpenShell is a CNCF Sandbox project moving into its new home here — please excuse the dust while we unpack!
 
-- Source: [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-- Documentation: [docs.nvidia.com/openshell](https://docs.nvidia.com/openshell/latest/index)
-- Releases: [NVIDIA/OpenShell releases](https://github.com/NVIDIA/OpenShell/releases)
+### Join the community
+
+OpenShell is built in the open — whether you're running agents for the first time, sharing feedback, or contributing code, we'd love to hear from you:
+
+- Say hi in [`#openshell-dev`](https://cloud-native.slack.com/messages/openshell-dev) on CNCF Slack ([get an invite](https://slack.cncf.io/))
+- Join the [Community Google Group](https://groups.google.com/a/ai-openshell.org/g/openshell-community/about) for community meetings and agendas
+- Ask questions and share ideas in [GitHub Discussions](https://github.com/ai-openshell/openshell/discussions)
+- Explore the [docs](https://docs.nvidia.com/openshell/latest/) or [run your first agent](https://docs.nvidia.com/openshell/latest/about/run-your-first-agent)
+- Ready to contribute? Check out [CONTRIBUTING.md](https://github.com/ai-openshell/openshell/blob/main/CONTRIBUTING.md) and [AGENTS.md](https://github.com/ai-openshell/openshell/blob/main/AGENTS.md)
+
+---
+
+<sub>Found a security issue? Report it privately via [SECURITY.md](https://github.com/ai-openshell/openshell/blob/main/SECURITY.md).</sub>
